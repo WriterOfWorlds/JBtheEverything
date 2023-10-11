@@ -28,6 +28,8 @@
 // >>>> start of private namespace
 'use strict';
 
+export const builtinScriptlets = [];
+    
 /*******************************************************************************
 
     Helper functions
